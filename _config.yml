@@ -10,7 +10,7 @@
 # Site settings
 title: "Spade - SSBCI Strategy & Services"
 email: "clare@hellospade.com"
-baseurl: "/jekyll-levert" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hellospade.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/header-brand.png
 description: "Spade SSBCI Strategy & Services"
