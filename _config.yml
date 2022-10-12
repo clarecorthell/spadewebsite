@@ -16,6 +16,7 @@ logo: /assets/images/header-brand.png
 description: "Spade SSBCI Strategy & Services"
 top_letest_news: true
 keywords: "ssbci, venture capital, equity capital, underserved business, small business, consulting"
+google_analytics: G-4VMFVZ1EH0
 
 # Build settings
 markdown: kramdown
