@@ -8,19 +8,14 @@
 ####################################################
 
 # Site settings
-title: "Levert Jekyll Theme"
-email: "themeix@gmail.com"
+title: "Spade - SSBCI Strategy & Services"
+email: "clare@hellospade.com"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: " " # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hellospade.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/header-brand.png
-description: "Levert is a responsive Jekyll template for your business website"
+description: "Spade SSBCI Strategy & Services"
 top_letest_news: true
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-mailchimp: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884"
-facebook: https://facebook.com/themeix
-instagram: https://instagram.com/themeix
-twitter: https://twitter.com/themeix_com
-pinterest: https://pinterest.com/themeix
+keywords: "ssbci, venture capital, equity capital, underserved business, small business, consulting"
 
 # Build settings
 markdown: kramdown
