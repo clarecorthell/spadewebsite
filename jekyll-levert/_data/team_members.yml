@@ -1,0 +1,16 @@
+- name: Erin Baca
+  designation: CEO, Founder
+  img_src: /assets/images/team/1.jpg
+  social:
+    - icon: '/assets/images/icons/linkedin.svg'
+      url: https://linkedin.com/in/erinbaca
+
+- name: Clare Corthell
+  designation: CTO, Founder
+  img_src: /assets/images/team/2.jpg
+  social:
+    - icon: '/assets/images/icons/linkedin.svg'
+      url: https://linkedin.com/in/clarecorthell
+
+
+

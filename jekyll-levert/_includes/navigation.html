@@ -1,0 +1,35 @@
+<nav class="header-navbar-menu">
+    <div class="header-navbar-bg"></div>
+    <button type="button" class="navbar-back"><img src="{{'/assets/images/left-arrow.svg' | relative_url}}" alt="title"></button>
+    <button type="button" class="header-cancel"><img src="{{'/assets/images/header-cancel.svg' | relative_url}}" alt="title"></button>
+    <div class="header-navbar-container">
+        <div class="header-navbar-left">
+            <ul class="nav-list list-inline">
+                <li>a spade is just a better shovel</li>
+<!--                 {% for link in site.data.navigation %}
+                <li {% if link.submenu %} class="sub-dropdown" {% endif %}><a href="{{link.url}}">{{link.text}}</a>
+                    {% if link.submenu %} 
+                    <ul class="sub-list list-inline">
+                        {% for sublink in link.submenu %}
+                        <li><a href="{{sublink.url}}">{{sublink.text}}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </li>
+                {% endfor %} -->
+            </ul>
+        </div>
+        <div class="header-navbar-right d-none d-sm-block">
+            <p class="text-muted">Where To Find Us</p>
+            <ul class="list-inline mb-6">
+                <li>Anchorage, AK & </li>
+                <li>San Francisco, CA</li>
+            </ul>
+            <p class="text-muted">Contact</p>
+            <ul class="list-inline">
+                <li><a href="mailto:erin@hellospade.com">erin@hellospade.com</a></li>
+                <li><a href="https://calendly.com/erin-baca">Schedule a Call</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>

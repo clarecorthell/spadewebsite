@@ -1,0 +1,16 @@
+ - name: one
+   img_src: /assets/images/company/1.png
+ # - name: two
+ #   img_src: /assets/images/company/2.png
+ # - name: three
+ #   img_src: /assets/images/company/3.png
+ # - name: four
+ #   img_src: /assets/images/company/4.png
+ # - name: five
+ #   img_src: /assets/images/company/3.png
+ # - name: six
+ #   img_src: /assets/images/company/2.png
+ # - name: seven
+ #   img_src: /assets/images/company/4.png
+ # - name: eight
+ #   img_src: /assets/images/company/1.png
